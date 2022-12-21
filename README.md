@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Guillaume
+- 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! 
 - 👀 I’m interested in DevOps, Automation and software programming.
 - 🎓 I am currently a student at ESIEE Amiens and an apprentice IT engineer at L'Oréal.
 
