@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guillaume
 - 👀 I’m interested in DevOps, Automation and software programming.
-- :school: I’m currently studying at ESIEE Amiens (France) and working as an apprentice IT Engineer for @L'Oréal
+- 🎓 I am currently a student at ESIEE Amiens and an apprentice IT engineer at L'Oréal.
 
 <!---
 Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
