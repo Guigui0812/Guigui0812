@@ -1,5 +1,5 @@
 - 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! 
-- 👀 I’m interested in DevOps, Automation and software programming.
+- 👀 I’m interested in DevOps, Automation (with Python/PowerShell) and Cloud Computing (currently learning GCP)
 - 🎓 I am currently a student at ESIEE Amiens and an apprentice IT engineer at L'Oréal.
 
 My favorite technologies : Python 🐍 / Docker 🐳 / Linux 🐧 ...
