@@ -6,7 +6,9 @@
 
 At the end of my engineering studies, I would like to work in a job that allows me to touch these different areas, especially the Cloud and automation parts. 
 
-My favorite tech : Python 🐍 / Docker 🐳 / Linux 🐧 ...
+Favorite Stack : 
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 <!---
 Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
