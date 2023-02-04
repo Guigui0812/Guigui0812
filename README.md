@@ -8,7 +8,7 @@ At the end of my engineering studies, I would like to work in a job that allows 
 
 Favorite techs : 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker,linux)](https://skillicons.dev)
 
 <!---
 Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
