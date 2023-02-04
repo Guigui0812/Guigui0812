@@ -6,9 +6,9 @@
 
 At the end of my engineering studies, I would like to work in a job that allows me to touch these different areas, especially the Cloud and automation parts. 
 
-Favorite Stack : 
+Favorite techs : 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker)](https://skillicons.dev)
 
 <!---
 Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
