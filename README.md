@@ -5,7 +5,11 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! 
 
-👀 I’m interested in software engineering (python, C# & C/C++), DevOps (git, ansible, docker, Jenkins...), Automation (python & PowerShell) and Cloud Computing.
+👀 What i'm in interested in : 
+- Software engineering for backend and desktop applications
+- Dev/Sys-Ops 
+- Automation
+- Cloud Computing (learning AWS to get certified)
 
 🎓 I am currently a student at ESIEE Amiens and an apprentice IT engineer at L'Oréal.
 
