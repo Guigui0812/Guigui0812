@@ -27,4 +27,4 @@ Other known/used technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,raspberrypi)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My statistics :](https://github-readme-stats.vercel.app/api?username=Guigui0812&show_icons=true&theme=dark)
