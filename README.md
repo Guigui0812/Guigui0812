@@ -30,5 +30,3 @@ Technologies covered in class:
 Other known/used technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,raspberrypi)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui0812)](https://github.com/anuraghazra/github-readme-stats)
