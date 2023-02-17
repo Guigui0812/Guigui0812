@@ -21,12 +21,14 @@ At the end of my engineering studies, I would like to work in a job that allows 
 
 <h2> My knowledge </h2>
 
+<h3> My favorite technologies </h3>
+
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker,linux)](https://skillicons.dev)
 
-Technologies covered in class: 
+<h3> What I saw/used in class and at work </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ansible,bash,css,dotnet,html,java,js,mysql,nodejs,php,qt,r,sqlite,vim,mongodb)](https://skillicons.dev)
 
-Other known/used technologies:
+<h3> My other miscellaneous knowledge </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,raspberrypi)](https://skillicons.dev)
