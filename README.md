@@ -29,8 +29,8 @@ At the end of my engineering studies, I would like to work in a job that allows 
 
 <h4> Dev : </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,bash,powershell,css,postman,dotnet,html,java,js,jquery,mysql,nodejs,php,qt,r,sqlite,vim,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,postman,dotnet,html,java,js,jquery,mysql,nodejs,php,qt,r,sqlite,mongodb)](https://skillicons.dev)
 
 <h4> Ops : </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,bash,powershell,vim,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,powershell,mongodb)](https://skillicons.dev)
