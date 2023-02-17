@@ -5,6 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 <h1> 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! </h1>
 
+<h2> About me </h2>
+
 👀 What i'm in interested in : 
 - Software engineering for backend and desktop applications
 - Dev/Sys-Ops 
@@ -15,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 At the end of my engineering studies, I would like to work in a job that allows me to touch these different areas, especially the Cloud. 
 
-My favorites: 
+![My statistics :](https://github-readme-stats.vercel.app/api?username=Guigui0812&show_icons=true&theme=dark)
+
+<h2> My knowledge </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker,linux)](https://skillicons.dev)
 
@@ -27,4 +31,4 @@ Other known/used technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,raspberrypi)](https://skillicons.dev)
 
-![My statistics :](https://github-readme-stats.vercel.app/api?username=Guigui0812&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui0812)](https://github.com/anuraghazra/github-readme-stats)
