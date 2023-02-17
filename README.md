@@ -25,11 +25,11 @@ At the end of my engineering studies, I would like to work in a job that allows 
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,docker,linux)](https://skillicons.dev)
 
-<h3> What I saw/used in class and at work </h3>
+<h3> What I used in class and at work </h3>
 
 <h4> Dev : </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,bash,powershell,css,dotnet,html,java,js,jquery,mysql,nodejs,php,qt,r,sqlite,vim,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,bash,powershell,css,postman,dotnet,html,java,js,jquery,mysql,nodejs,php,qt,r,sqlite,vim,mongodb)](https://skillicons.dev)
 
 <h4> Ops : </h4>
 
