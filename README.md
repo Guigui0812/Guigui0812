@@ -3,7 +3,7 @@ Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! 
+<h1> 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! </h1>
 
 👀 What i'm in interested in : 
 - Software engineering for backend and desktop applications
