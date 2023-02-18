@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 🎓 I am currently a student at ESIEE Amiens and an apprentice IT engineer at L'Oréal.
 
-At the end of my engineering studies, I would like to work in a job that allows me to touch these different areas, especially the Cloud. 
+:rocket: I am looking for a job that will allow me to grow by improving my skills and discovering new technologies.
 
 ![My statistics :](https://github-readme-stats.vercel.app/api?username=Guigui0812&show_icons=true&theme=dark)
 
