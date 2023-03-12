@@ -3,7 +3,7 @@ Guigui0812/Guigui0812 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1> 👋 Hi, I’m not Philip J. Fry but Guillaume ROHEE ! </h1>
+<h1> 👋 Hi, I’m Guillaume, a passionate student in computer science  ! </h1>
 
 ![cyberpunk_city](https://user-images.githubusercontent.com/63466144/224510111-68305553-6dbd-4bd4-b845-bf140fc3963d.gif)
 
