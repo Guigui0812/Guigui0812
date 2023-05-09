@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 🎓 I am currently studying Computer Science & networking at ESIEE Amiens. I have a bachelor Degree in computer science (major in software programming).
 
-During my Master of Science, I'm IT engineer at L'Oréal in one of the group's factory.
+During my Master of Science, I'm IT engineer at L'Oréal in one of the group's factory. My main activity is to automate and manage the IT infrastucture of the plant.
 
 :rocket: I am looking for a new job that will allow me to grow by improving my skills and discovering new technologies.
 
