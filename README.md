@@ -17,8 +17,6 @@ During my Master of Science, I'm IT engineer at L'Oréal in one of the group's f
 
 :rocket: I am looking for a new job that will allow me to grow by improving my skills and discovering new technologies.
 
-![My statistics :](https://github-readme-stats.vercel.app/api?username=Guigui0812&show_icons=true&theme=dark)
-
 <h2> My knowledge </h2>
 
 <h3> My favorite technologies </h3>
