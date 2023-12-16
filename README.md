@@ -5,17 +5,17 @@ You can click the Preview link to take a look at your changes.
 
 <h1> 👋 Hi, I’m Guillaume, a passionate student in computer science ! </h1>
 
+I love music, anime, video games, science fiction and learning new skills that will help me become a better IT engineer.
+
 ![cyberpunk_city](https://user-images.githubusercontent.com/63466144/224510111-68305553-6dbd-4bd4-b845-bf140fc3963d.gif)
 
 <h2> About me </h2>
 
-👀 I'm interested in Software Engineering & DevOps. 
+👀 I'm interested in **Software Engineering** & **DevOps**. 
 
-🎓 I am currently studying Computer Science & networking at ESIEE Amiens. I have a bachelor Degree in computer science (major in software programming).
+🎓 I am currently studying **computer science** & **networking** at **ESIEE Amiens**. I have a **Bachelor Degree** in **computer science**.
 
-During my Master of Science, I'm IT engineer at L'Oréal in one of the group's factory. My main activity is to automate and manage the IT infrastucture of the plant.
-
-:rocket: I am looking for a new job that will allow me to grow by improving my skills and discovering new technologies.
+:rocket: I'm currently a DevOps Engineer in a fintech (Ansible, Terraform, Linux, Python...).
 
 <h2> My knowledge </h2>
 
