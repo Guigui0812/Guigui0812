@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Welcome on my GitHub profil !
 
-I'm a **SysOps** and Cloud Engineer** with a background in sofware programming. 
+I'm a **SysOps and Cloud Engineer** with a background in sofware programming. 
 
 ## 🔧 Main tools and technologies
 
