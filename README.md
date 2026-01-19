@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Welcome on my GitHub profil !
 
-I'm a **SysOps and Cloud Engineer** with a background in sofware programming. 
+I'm a Google Certified **Cloud Engineer** with **SysOps** and **Developer** experience !
 
 ## 🔧 Main tools and technologies
 
@@ -18,9 +18,3 @@ I'm a **SysOps and Cloud Engineer** with a background in sofware programming.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
-
-## 🚀 Ongoing projects :
-- ☁️ Preparing for the [Google Cloud Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer) certification
-- 🏠 Homelab automation and observability with **Ansible**, **Terraform**, **Proxmox**, **Docker**, **Prometheus**, **Grafana**, etc.
-- 🐋 Deploying containerized applications in a **k3s** cluster using **argocd** and **helm**
